@@ -1,4 +1,4 @@
-This is a live chat bot for youtube that allows the user to select randomly a user to be a barbarian, rogue, and wizard, and use a text to speech ai from Microsoft to speak what they send in the chat. This was inspired by DougDoug's Twitch streams. This was designed at the request of @TheJan on youtube, go subscribe to him at https://www.youtube.com/@TheJan
+This is a live chatbot for YouTube that allows the user to randomly select a player to be a barbarian, rogue, or wizard. It uses a Microsoft text-to-speech AI to speak the messages sent in the chat. The idea was inspired by DougDoug's Twitch streams and was developed in response to @TheJan's request on YouTube. Make sure to subscribe to him at https://www.youtube.com/@TheJan.
 
 ## Setup
 
